@@ -71,9 +71,4 @@ botton-gulecd8.png
 botton-gulecd9.png
 </td>
 
-<td valign="bottom">
-<img src="./readme-generator.js" width="200"><br>
-readme-generator.js
-</td>
-
 </tr></table>
