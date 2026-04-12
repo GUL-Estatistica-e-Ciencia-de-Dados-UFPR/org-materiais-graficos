@@ -6,11 +6,6 @@ botton-gulecd1.png
 </td>
 
 <td valign="bottom">
-<img src="./botton-gulecd10.png" width="200"><br>
-botton-gulecd10.png
-</td>
-
-<td valign="bottom">
 <img src="./botton-gulecd11.png" width="200"><br>
 botton-gulecd11.png
 </td>
@@ -20,21 +15,16 @@ botton-gulecd11.png
 botton-gulecd12.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./botton-gulecd13.png" width="200"><br>
 botton-gulecd13.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./botton-gulecd14.png" width="200"><br>
 botton-gulecd14.png
-</td>
-
-<td valign="bottom">
-<img src="./botton-gulecd15.png" width="200"><br>
-botton-gulecd15.png
 </td>
 
 <td valign="bottom">
@@ -42,8 +32,6 @@ botton-gulecd15.png
 botton-gulecd16.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./botton-gulecd17.jpg" width="200"><br>
 botton-gulecd17.jpg
@@ -54,6 +42,8 @@ botton-gulecd17.jpg
 botton-gulecd2.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./botton-gulecd3.png" width="200"><br>
 botton-gulecd3.png
@@ -64,8 +54,6 @@ botton-gulecd3.png
 botton-gulecd4.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./botton-gulecd5.png" width="200"><br>
 botton-gulecd5.png
@@ -76,6 +64,8 @@ botton-gulecd5.png
 botton-gulecd6.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./botton-gulecd7.png" width="200"><br>
 botton-gulecd7.png
@@ -86,13 +76,10 @@ botton-gulecd7.png
 botton-gulecd8.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
-<img src="./botton-gulecd9.png" width="200"><br>
-botton-gulecd9.png
+<img src="./pre-selecionados" width="200"><br>
+pre-selecionados
 </td>
-
 
 
 </tr></table>
