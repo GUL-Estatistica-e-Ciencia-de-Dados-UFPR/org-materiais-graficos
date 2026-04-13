@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const ROOT_DIR = '/home/marcos/Projects/gulecd/repositorios/materiais-graficos/bottons/';
+const ROOT_DIR = '/home/marcos/Projects/gulecd/repositorios/org-materiais-graficos/bottons';
 const README_FILENAME = 'README.md';
 const NB_IMAGES_PER_LINE = 4;
 let nbImages = 0;
