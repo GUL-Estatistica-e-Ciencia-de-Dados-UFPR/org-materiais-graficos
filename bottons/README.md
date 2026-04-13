@@ -93,9 +93,4 @@ botton-gulecd7.png
 botton-gulecd8.png
 </td>
 
-<td valign="bottom">
-<img src="./pre-selecionados" width="200"><br>
-pre-selecionados
-</td>
-
 </tr></table>
